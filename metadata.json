@@ -1,0 +1,6 @@
+{
+  "name": "Komorebi Coffee & Roastery",
+  "description": "Artisanal specialty coffee roastery, handcrafted seasonal pastries, and tranquil gathering space. Order ahead, reserve a tasting table, or explore single-origin beans.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
